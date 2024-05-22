@@ -4,14 +4,14 @@ A tool that generates dynamic HTML pages showcasing Forge maps with images and l
 ## Instructions
 
 1. **Download all the files:**
-   - Ensure you download all the files (`links.txt`, `generate_html.bat`, and `generate_html.ps1`) to a common folder.
+   - Ensure you download all the files (`list.txt`, `generate_html.bat`, and `generate_html.ps1`) to a common folder.
 
 2. **Copy Halo Waypoint links:**
-   - Open the `links.txt` file.
+   - Open the `list.txt` file.
    - Copy each Halo Waypoint link into this file, ensuring each link is on a new line.
 
 3. **Save the links.txt file:**
-   - After copying all the links, save the `links.txt` file.
+   - After copying all the links, save the `list.txt` file.
 
 4. **Generate the index.html file:**
    - Double-click the `generate_html.bat` file.
